@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://direktor-stroitelstvo-obuchenie.vercel.app/sitemap.xml
